@@ -67,6 +67,18 @@
 
   "Miscellaneous": [
     {
+      "name": "Concat - CapCut alternative - Video editor",
+      "repository": "jub0t/Concat",
+      "folderName": "Concat-CapCut",
+      "appIconUrl": "https://camo.githubusercontent.com/e18fd202c40dd9c224dbc93c0149e97779831873d7ef8cdead481600fb79554d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6a756230742f436f6e636174406d61696e2f6173736574732f636f6e6361742d6d61726b2d6461726b2e706e67"
+    },
+    {
+      "name": "2D-to-3D video converter - Converts 2D videos into 3D videos",
+      "repository": "DropBearInteractive/2D-to-3D-Converter",
+      "folderName": "2D-to-3D_VideoConverter",
+      "appIconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWvVBeUsAj8_3Q0cHak1tS30Y5pZqXJ4STaFbPKYGQ2Q&s=10"
+    },
+	  {
       "name": "SoundCraft - Avid Pro Tools alternative - Recording, editing, & mixing audio",
       "repository": "storytold/soundcraft",
       "folderName": "SoundCraft-AvidProTools",
